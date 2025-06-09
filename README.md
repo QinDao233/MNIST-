@@ -1,3 +1,5 @@
+MNIST手写字符识别系统
+
 模型结构详解
 1. 多层感知机 (MLP)
 class MLP(nn.Module):
